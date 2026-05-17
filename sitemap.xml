@@ -2,18 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bluetoothkeyboard.com/</loc>
-    <priority>1.0</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>1.00</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/steam-deck-docked-keyboards.html</loc>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/aa-battery-mechanical-keyboards.html</loc>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/ipad-pro-keyboard-alternatives.html</loc>
-    <priority>0.8</priority>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/about.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/contact.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/privacy-policy.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/terms-of-service.html</loc>
+    <lastmod>2026-05-17</lastmod>
+    <priority>0.50</priority>
   </url>
 </urlset>
