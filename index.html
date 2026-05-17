@@ -39,8 +39,10 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center py-4">
                 <a href="index.html" class="text-2xl font-bold text-gray-900 tracking-tight"><span class="text-gray-900">Bluetooth</span><span class="text-blue-600">Keyboard</span></a>
-                <nav class="hidden md:flex space-x-8">
-                    <a href="index.html" class="text-gray-600 hover:text-primary transition-colors duration-200">Home</a>
+                <nav class="hidden md:flex space-x-8 items-center font-medium text-sm text-gray-600">
+                    <a href="index.html" class="hover:text-blue-600 transition-colors text-blue-600 font-bold">Home</a>
+                    <a href="about.html" class="hover:text-blue-600 transition-colors">About Us</a>
+                    <a href="contact.html" class="hover:text-blue-600 transition-colors">Contact</a>
                 </nav>
                 <div class="md:hidden">
                     <button class="text-gray-500 hover:text-gray-900 focus:outline-none">
@@ -54,19 +56,28 @@
     </header>
 
     <!-- Hero Section -->
-    <section class="bg-white py-16 sm:py-24">
-        <div data-aos="fade-up" class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 class="text-4xl sm:text-5xl font-extrabold text-gray-900 mb-4">Discover the Best Tech Gear</h1>
-            <p class="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">Unbiased reviews, comprehensive guides, and the latest deals on top-tier electronics to elevate your digital life.</p>
-            <div class="flex justify-center space-x-4">
-                <a href="#latest" class="bg-primary text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-600 transition-colors duration-200 shadow-lg shadow-blue-500/30">Read Latest</a>
-                <a href="#" class="bg-white text-gray-800 border border-gray-300 px-6 py-3 rounded-lg font-medium hover:bg-gray-50 transition-colors duration-200">View Deals</a>
+    <section class="bg-[#0a0a0a] text-white py-24 md:py-32 relative overflow-hidden">
+        <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-3xl h-full bg-blue-600/10 blur-[120px] rounded-full pointer-events-none"></div>
+        
+        <div class="container mx-auto px-6 relative z-10 text-center max-w-4xl" data-aos="fade-up">
+            <span class="inline-block text-blue-400 text-sm font-bold uppercase tracking-widest mb-4">Your Wireless Desk Guide</span>
+            <h1 class="text-5xl md:text-6xl font-extrabold mb-6 leading-tight tracking-tight text-white">
+                Crafting the Perfect <br class="hidden md:block">
+                <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-600">Typing Experience</span>
+            </h1>
+            <p class="text-xl text-gray-400 mb-10 max-w-2xl mx-auto leading-relaxed">
+                Unbiased reviews, comprehensive buyer's guides, and curated recommendations for the absolute best mechanical and Bluetooth keyboards on the market.
+            </p>
+            
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <a href="#latest-articles" class="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-xl transition-all shadow-lg hover:shadow-blue-600/30">Read Latest Reviews</a>
+                <a href="about.html" class="w-full sm:w-auto bg-transparent border border-gray-700 hover:border-gray-500 hover:bg-gray-800 text-white font-bold py-4 px-8 rounded-xl transition-all">Our Testing Methodology</a>
             </div>
         </div>
     </section>
 
     <!-- Main Content -->
-    <main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full" id="latest">
+    <main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full" id="latest-articles">
         <div class="flex justify-between items-end mb-8">
             <h2 class="text-3xl font-bold text-gray-900">Latest Articles</h2>
             <a href="#" class="text-primary hover:text-blue-700 font-medium hidden sm:block">View all articles &rarr;</a>
