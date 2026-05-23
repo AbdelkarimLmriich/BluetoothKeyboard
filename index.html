@@ -754,12 +754,12 @@
                 btn.addEventListener('click', (e) => {
                     // Reset Button Styles
                     filterBtns.forEach(b => {
-                        b.classList.remove('bg-blue-600', 'text-white');
-                        b.classList.add('bg-white', 'text-gray-600');
+                        b.classList.remove('bg-blue-600', 'text-white', 'border-blue-600');
+                        b.classList.add('bg-white', 'text-gray-600', 'hover:bg-gray-50', 'border-gray-200');
                     });
                     // Apply Active Style
-                    e.target.classList.remove('bg-white', 'text-gray-600');
-                    e.target.classList.add('bg-blue-600', 'text-white');
+                    e.target.classList.remove('bg-white', 'text-gray-600', 'hover:bg-gray-50', 'border-gray-200');
+                    e.target.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
                     
                     activeFilter = e.target.getAttribute('data-filter');
                     currentLimit = 6; // Reset to top
