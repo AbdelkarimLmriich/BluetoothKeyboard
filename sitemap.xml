@@ -1,269 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Root Domain -->
   <url>
     <loc>https://bluetoothkeyboard.com/</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <priority>1.00</priority>
   </url>
+
+  <!-- Main Article Index -->
   <url>
     <loc>https://bluetoothkeyboard.com/articles.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.90</priority>
   </url>
 
+  <!-- Commercial Buying Guides (Weekly / 0.80) -->
   <url>
-    <loc>https://bluetoothkeyboard.com/steam-deck-docked-keyboards.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <loc>https://bluetoothkeyboard.com/aa-battery-mechanical-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://bluetoothkeyboard.com/quiet-keyboards-for-zoom-calls.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://bluetoothkeyboard.com/apple-magic-keyboard-vs-logitech-mx-keys-mini.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-60-percent-wireless-keyboards-for-gaming.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-budget-bluetooth-keyboards-college-students.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-custom-barebones-wireless-keyboard-kits.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-hall-effect-magnetic-keyboards-rapid-trigger-gaming.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-heavy-duty-wireless-keyboards-data-entry-accounting.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-lightweight-ipad-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-low-profile-mechanical-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-multi-device-bluetooth-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-quiet-wireless-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-retro-typewriter-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-split-wireless-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-standalone-wireless-numpads.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-white-wireless-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-wireless-keyboards-with-device-stands.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-wireless-keyboards-with-macro-keys.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-wireless-keyboards-with-trackpads.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-wireless-mechanical-keyboards-for-python-developers.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/best-wireless-tkl-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/bluetooth-alternatives-apple-magic-keyboard.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/budget-mechanical-keyboards-under-50.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/ergonomic-bluetooth-keyboards-wrist-pain.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/low-profile-mechanical-keyboards-mac-pc.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/foldable-bluetooth-keyboards-travel-ipad.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/hot-swappable-bluetooth-mechanical-keyboards.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/multi-device-bluetooth-keyboards-switching.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/bluetooth-alternatives-apple-magic-keyboard.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/aa-battery-mechanical-keyboards.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluetoothkeyboard.com/ipad-pro-keyboard-alternatives.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://bluetoothkeyboard.com/about.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.50</priority>
+    <loc>https://bluetoothkeyboard.com/low-profile-mechanical-keyboards-mac-pc.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://bluetoothkeyboard.com/contact.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.50</priority>
+    <loc>https://bluetoothkeyboard.com/multi-device-bluetooth-keyboards-switching.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://bluetoothkeyboard.com/privacy-policy.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.50</priority>
+    <loc>https://bluetoothkeyboard.com/quiet-keyboards-for-zoom-calls.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://bluetoothkeyboard.com/terms-of-service.html</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.50</priority>
+    <loc>https://bluetoothkeyboard.com/steam-deck-docked-keyboards.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
   </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/apple-magic-keyboard-vs-logitech-mx-keys-mini.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/budget-mechanical-keyboards-under-50.html</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-multi-device-bluetooth-keyboards.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-low-profile-mechanical-keyboards.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-wireless-keyboards-with-trackpads.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-quiet-wireless-keyboards.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-retro-typewriter-keyboards.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-wireless-tkl-keyboards.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-lightweight-ipad-keyboards.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-split-wireless-keyboards.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-white-wireless-keyboards.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
+  <!-- Educational Tech Guides (Monthly / 0.80) -->
   <url>
     <loc>https://bluetoothkeyboard.com/bluetooth-vs-24ghz-wireless-explained.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.80</priority>
   </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/</loc>
-    <lastmod>2026-05-24</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-60-percent-wireless-keyboards-for-gaming.html</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-wireless-keyboards-with-macro-keys.html</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-wireless-mechanical-keyboards-for-python-developers.html</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bluetoothkeyboard.com/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-heavy-duty-wireless-keyboards-data-entry-accounting.html</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-standalone-wireless-numpads.html</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-hall-effect-magnetic-keyboards-rapid-trigger-gaming.html</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-budget-bluetooth-keyboards-college-students.html</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/why-wireless-keyboards-keep-disconnecting.html</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-wireless-keyboards-with-device-stands.html</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/best-custom-barebones-wireless-keyboard-kits.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/linear-vs-tactile-vs-clicky-mechanical-switches.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/keycap-profiles-explained-oem-cherry-xda.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://bluetoothkeyboard.com/keyboard-sizes-layouts-explained-60-tkl-full.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
   <url>
     <loc>https://bluetoothkeyboard.com/how-to-make-mechanical-keyboard-thocky-mods.html</loc>
-    <lastmod>2026-06-04</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/keyboard-sizes-layouts-explained-60-tkl-full.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/keycap-profiles-explained-oem-cherry-xda.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/linear-vs-tactile-vs-clicky-mechanical-switches.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluetoothkeyboard.com/why-wireless-keyboards-keep-disconnecting.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
 </urlset>
